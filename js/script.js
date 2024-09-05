@@ -10,7 +10,7 @@ const projects = [
     },
     {
         title: "Puto Cheese Recipe",
-        description: "A simple to-do list application built with JavaScript and localStorage.",
+        description: "A simple to-do list on how to cook my favorite food.",
         link: "https://rolandojayoma.github.io/PutoSheesh/" 
     },
 ];
